@@ -1,4 +1,6 @@
 # Mac Studio CAD Model
+![Image](/Photos/image.png)
+
 
 Apple Mac Studio CAD Model A2615 3D + 2D Drawing. Dimensionally acuurate.
 
